@@ -1,6 +1,14 @@
 # PyMath-Lab
 
-Este Proyecto de análisis se basa en un conjunto de datos que busca estudiar el impacto de diferentes factores sobre las puntuaciones de los exámenes de matemáticas de los estudiantes. 
+A través de los gráficos generados, hemos podido observar cómo diversas características del estudiante, como el género, la raza/etnia, la educación de los padres, el tipo de almuerzo y la preparación para el examen, influyen en las puntuaciones de matemáticas. En general, los resultados sugieren que:
+
+. El género y la preparación para el examen tienen un impacto considerable en las puntuaciones de matemáticas, con diferencias notables entre los estudiantes que completaron el curso de preparación y aquellos que no.
+
+. Las variaciones en el rendimiento académico también se reflejan en las diferencias entre los grupos raciales/étnicos, lo que podría indicar desigualdades en los recursos o el apoyo académico disponibles.
+
+. Los estudiantes con almuerzo estándar tienden a obtener mejores resultados en comparación con aquellos con almuerzo gratuito/reducido, lo que puede estar relacionado con factores socioeconómicos.
+
+Estos hallazgos indican que factores personales, sociales y educativos juegan un papel clave en el rendimiento académico de los estudiantes y resaltan la importancia de implementar estrategias de apoyo que aborden estas desigualdades para mejorar el éxito académico.
 
 ## Tabla de contenidos
 
