@@ -27,8 +27,11 @@ https://www.kaggle.com/datasets/sudhanshu2198/analyzing-exam-scores
 -Limpieza de datos (img que lo valide) 
 
 Limpieza y Preprocesado del DataSet
-![image](https://github.com/user-attachments/assets/76886da9-db5e-43d9-987f-4e6e8314460f) 
-![image](https://github.com/user-attachments/assets/8381b123-d528-417e-8bff-12887ed4c518)
+
+![image](https://github.com/user-attachments/assets/5ed8450a-cd8a-4fac-a08e-a91fd0904d9c)
+
+
+
 
 
 
