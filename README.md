@@ -25,18 +25,14 @@ Este análisis se basa en un conjunto de datos que busca estudiar el impacto de 
 ![image](https://github.com/user-attachments/assets/936db9d4-54af-4720-8be3-3f32110c8ab7)
 
 
-
-
 * Arquitectura del proyecto + imagen
 
 * Proceso de desarrollo:
 
--Fuente del dataset 
+-Fuente del dataset: 
 https://www.kaggle.com/datasets/sudhanshu2198/analyzing-exam-scores
 
--Limpieza de datos (img que lo valide) 
-
-Limpieza y Preprocesado del DataSet
+-Limpieza de datos (img que lo valide):
 
 ![image](https://github.com/user-attachments/assets/5ed8450a-cd8a-4fac-a08e-a91fd0904d9c)
 
