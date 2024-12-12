@@ -1,6 +1,6 @@
 # PyMath-Lab
 
-Breve descripción del proyecto.
+Este Proyecto de análisis se basa en un conjunto de datos que busca estudiar el impacto de diferentes factores sobre las puntuaciones de los exámenes de matemáticas de los estudiantes. 
 
 ## Tabla de contenidos
 
