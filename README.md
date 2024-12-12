@@ -40,6 +40,14 @@ https://www.kaggle.com/datasets/sudhanshu2198/analyzing-exam-scores
 -Manejo excepciones/control errores
 
 -Estadísticos (Valores, gráficos, …)
+A continuación, se describe cada una de las columnas presentes en el dataset:
+
+gender: Género del estudiante (masculino/femenino).
+race/ethnicity: Raza o etnia del estudiante. Es una de las cinco categorías raciales o étnicas disponibles.
+parent_education_level: Nivel educativo más alto alcanzado por los padres del estudiante. Los valores posibles son: sin educación, secundaria, técnico, licenciatura, máster.
+lunch: Tipo de almuerzo proporcionado al estudiante. Los valores son estándar o gratis/reducido.
+test_prep_course: Indica si el estudiante completó un curso de preparación para el examen. Los valores posibles son: completado o ninguno.
+math: Puntuación obtenida por el estudiante en el examen de matemáticas (rango de 0 a 100).
 
 * Funcionalidades extra:
 
