@@ -2,7 +2,7 @@
 
 A través de los gráficos generados, hemos podido observar cómo diversas características del estudiante, como el género, la raza/etnia, la educación de los padres, el tipo de almuerzo y la preparación para el examen, influyen en las puntuaciones de matemáticas. En general, los resultados sugieren que:
 
-# .El género y la preparación para el examen tienen un impacto considerable en las puntuaciones de matemáticas, con diferencias notables entre los estudiantes que completaron el curso de preparación y aquellos que no.
+.El género y la preparación para el examen tienen un impacto considerable en las puntuaciones de matemáticas, con diferencias notables entre los estudiantes que completaron el curso de preparación y aquellos que no.
 
 . Las variaciones en el rendimiento académico también se reflejan en las diferencias entre los grupos raciales/étnicos, lo que podría indicar desigualdades en los recursos o el apoyo académico disponibles.
 
