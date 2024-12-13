@@ -10,7 +10,7 @@ Estos hallazgos resaltan la importancia de implementar estrategias para abordar 
 
 ## Tabla de contenidos
 
-1. [Nombre](#Nombre)
+1. [Nombre](#PyMath-Lab)
 2. [Descripción](#descripción)
 3. [Arquitectura](#Arquitectura)
 4. [Proceso de desarrollo](#ProcesoDeDesarrollo)
