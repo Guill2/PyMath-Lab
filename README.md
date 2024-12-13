@@ -13,9 +13,10 @@ Estos hallazgos resaltan la importancia de implementar estrategias para abordar 
 1. [Nombre](#PyMath-Lab)
 2. [Descripción](#Breve-descripción-del-proyecto)
 3. [Arquitectura](#Arquitectura-del-proyecto)
-4. [Proceso de desarrollo](#Proceso-de-desarrollo)
-5. [Estadísticos](#Estadísticos)
-6. [Tecnologías usadas](#Tecnologías-usadas)
+4. [Limpieza de datos](#Limpieza-de-datos)
+6. [Proceso de desarrollo](#Proceso-de-desarrollo)
+7. [Estadísticos](#Estadísticos)
+8. [Tecnologías usadas](#Tecnologías-usadas)
 
 ---
 
@@ -40,6 +41,10 @@ El proyecto se organiza en las siguientes etapas clave:
 3. **Análisis exploratorio**: Generación de gráficos y cálculo de estadísticas descriptivas.
 4. **Visualización**: Uso de bibliotecas como Matplotlib y Seaborn para crear gráficos interpretativos.
 5. **Documentación**: Generación de conclusiones basadas en los hallazgos.
+
+---
+
+## Limpieza de datos
 
 ![image](https://github.com/user-attachments/assets/5ed8450a-cd8a-4fac-a08e-a91fd0904d9c)
 
