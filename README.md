@@ -12,8 +12,8 @@ Estos hallazgos resaltan la importancia de implementar estrategias para abordar 
 
 1. [Nombre](#PyMath-Lab)
 2. [Descripción](#Breve-descripción-del-proyecto)
-3. [Arquitectura](#Arquitectura)
-4. [Proceso de desarrollo](#ProcesoDeDesarrollo)
+3. [Arquitectura](#Arquitectura-del-proyecto)
+4. [Proceso de desarrollo](#Proceso-de-desarrollo)
 5. [Funcionalidades](#Funcionalidades)
 6. [Estado del proyecto](#EstadoDelProyecto)
 7. [Agradecimientos](#Agradecimientos)
