@@ -14,7 +14,7 @@ Estos hallazgos resaltan la importancia de implementar estrategias para abordar 
 2. [Descripción](#Breve-descripción-del-proyecto)
 3. [Arquitectura](#Arquitectura-del-proyecto)
 4. [Proceso de desarrollo](#Proceso-de-desarrollo)
-5. [Estadísticos](#Estadísticos-valores-gráficos)
+5. [Estadísticos](#Estadísticos)
 6. [Tecnología/Herramientas usadas](#Tecnología/Herramientas-usadas)
 
 ---
@@ -62,7 +62,7 @@ El proyecto se organiza en las siguientes etapas clave:
 
 ---
 
-## Estadísticos (Valores, gráficos, …)
+## Estadísticos
 
 A continuación, se describe cada una de las columnas presentes en el dataset:
 
