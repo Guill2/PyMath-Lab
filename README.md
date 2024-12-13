@@ -15,7 +15,7 @@ Estos hallazgos resaltan la importancia de implementar estrategias para abordar 
 3. [Arquitectura](#Arquitectura-del-proyecto)
 4. [Proceso de desarrollo](#Proceso-de-desarrollo)
 5. [Estadísticos](#Estadísticos)
-6. [Tecnología usadas](#Tecnología-usadas)
+6. [Tecnologías usadas](#Tecnologías-usadas)
 
 ---
 
@@ -75,7 +75,7 @@ A continuación, se describe cada una de las columnas presentes en el dataset:
 
 ---
 
-## Tecnología usadas
+## Tecnologías usadas
 
 - **Lenguaje**: Python.
 - **Bibliotecas**: Pandas, NumPy, Matplotlib, Seaborn.
