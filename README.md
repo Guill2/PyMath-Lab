@@ -15,7 +15,7 @@ Estos hallazgos resaltan la importancia de implementar estrategias para abordar 
 3. [Arquitectura](#Arquitectura-del-proyecto)
 4. [Proceso de desarrollo](#Proceso-de-desarrollo)
 5. [Estadísticos](#Estadísticos)
-6. [Tecnología/Herramientas usadas](#Tecnología/Herramientas-usadas)
+6. [Tecnología/Herramientas usadas](#Tecnología-Herramientas-usadas)
 
 ---
 
