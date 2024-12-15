@@ -17,6 +17,7 @@ Estos hallazgos resaltan la importancia de implementar estrategias para abordar 
 6. [Proceso de desarrollo](#Proceso-de-desarrollo)
 7. [Estadísticos](#Estadísticos)
 8. [Tecnologías usadas](#Tecnologías-usadas)
+9. [Funcionalidad](#Funcionalidad)
 
 ---
 
@@ -86,4 +87,11 @@ A continuación, se describe cada una de las columnas presentes en el dataset:
 - **Bibliotecas**: Pandas, NumPy, Matplotlib, Seaborn.
 
 ---
+
+## Funcionalidad
+
+Una vez terminado nuestro análisis de datos hemos implementado una página web en donde se muestran de una manera más ordenada nuestros gráficos finales.
+
+
+[Enlace de nuestra página web]([https://www.kaggle.com/datasets/sudhanshu2198/analyzing-exam-scores](https://guill2.github.io/PyMath-Lab/))
 
