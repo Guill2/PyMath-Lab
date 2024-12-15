@@ -84,7 +84,7 @@ A continuación, se describe cada una de las columnas presentes en el dataset:
 ## Tecnologías usadas
 
 - **Lenguaje**: Python.
-- **Bibliotecas**: Pandas, NumPy, Matplotlib, Seaborn.
+- **Bibliotecas**: Pandas, NumPy, Matplotlib, Seaborn, Sklearn, Warnings.
 
 ---
 
