@@ -1,0 +1,203 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+}
+
+/* Header Section */
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #004080;
+    color: #fff;
+    padding: 10px 20px;
+    border-bottom: 5px solid #ffea00;
+}
+
+.header img {
+    width: 80px;
+    height: auto;
+}
+
+.header h1 {
+    font-size: 2rem;
+    margin-left: 10px;
+}
+
+/* Main Section */
+.main {
+    background-color: #e0f7fa;
+    padding: 20px;
+    text-align: center;
+}
+
+.main h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    color: #2c3e50;
+}
+
+.main h3 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    color: #004080;
+}
+
+.divider {
+    width: 80px;
+    height: 3px;
+    background-color: #000;
+    margin: 10px auto;
+}
+
+/* Somos PyCode Section */
+.somos-pycode {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.somos-pycode h2 {
+    font-size: 2.5rem;
+    color: #004080;
+    margin-bottom: 10px;
+}
+
+.somos-pycode p {
+    font-size: 1.2rem;
+    color: #333;
+    line-height: 1.8;
+}
+
+/* PyMath-Lab Section */
+.pymath-lab {
+    background-color: #e3f2fd;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid #004080;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.pymath-lab h3 {
+    font-size: 2rem;
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+.pymath-lab p {
+    font-size: 1.1rem;
+    color: #555;
+    line-height: 1.8;
+}
+
+/* Gráficos */
+/* Contenedor principal de las gráficas */
+.graphics {
+    display: flex;
+    flex-wrap: wrap; /* Permite que los elementos bajen de línea si no caben */
+    justify-content: center; /* Centra los gráficos horizontalmente */
+    gap: 20px; /* Espaciado entre las cajas */
+    padding: 20px;
+}
+
+/* Cajas individuales de los gráficos */
+.graph-box {
+    position: relative;
+    background-color: #f9f9f9;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    height: 350px;
+    text-align: center;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.graph-box:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+
+/* Ajuste de la imagen dentro de la caja */
+.graph-box img {
+    max-width: 100%;
+    max-height: 70%;
+    object-fit: contain;
+    transition: transform 0.3s ease;
+}
+
+.graph-box:hover img {
+    transform: scale(1.1);
+}
+
+/* Títulos debajo de cada gráfico */
+.graph-title {
+    margin-top: 10px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #333;
+}
+
+/* Footer Section */
+.footer {
+    background-color: #bdbdbd;
+    padding: 20px;
+    text-align: center;
+    color: #333;
+    border-top: 5px solid #ffea00;
+}
+
+.footer h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.footer ul {
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.footer li {
+    font-size: 1.1rem;
+    margin: 5px 0;
+}
+
+.footer img {
+    width: 120px;
+    height: auto;
+    margin-top: 10px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .header {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .graphics {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .graph-box {
+        width: 80%;
+        height: auto;
+    }
+}
