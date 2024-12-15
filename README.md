@@ -90,7 +90,7 @@ A continuación, se describe cada una de las columnas presentes en el dataset:
 
 ## Funcionalidad
 
-Una vez terminado nuestro análisis de datos hemos implementado una página web en donde se muestran de una manera más ordenada nuestros gráficos finales.
+Una vez terminado nuestro análisis de datos hemos implementado una página web en donde se muestran de una forma más ordenada nuestros gráficos finales.
 
 ![image](https://github.com/Guill2/PyMath-Lab/blob/main/IMGs/Pag1.png)
 ![image](https://github.com/Guill2/PyMath-Lab/blob/main/IMGs/Pag2.png)
