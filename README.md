@@ -92,8 +92,8 @@ A continuación, se describe cada una de las columnas presentes en el dataset:
 
 Una vez terminado nuestro análisis de datos hemos implementado una página web en donde se muestran de una manera más ordenada nuestros gráficos finales.
 
-![image]([https://github.com/user-attachments/assets/5ed8450a-cd8a-4fac-a08e-a91fd0904d9c](https://github.com/Guill2/PyMath-Lab/blob/main/IMGs/Pag1.png))
-![image]([https://github.com/user-attachments/assets/5ed8450a-cd8a-4fac-a08e-a91fd0904d9c](https://github.com/Guill2/PyMath-Lab/blob/main/IMGs/Pag2.png))
+![image](https://github.com/Guill2/PyMath-Lab/blob/main/IMGs/Pag1.png)
+![image](https://github.com/Guill2/PyMath-Lab/blob/main/IMGs/Pag2.png)
 
 [Enlace de nuestra página web](https://guill2.github.io/PyMath-Lab/)
 
