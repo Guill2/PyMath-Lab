@@ -93,7 +93,7 @@ A continuación, se describe cada una de las columnas presentes en el dataset:
 Una vez terminado nuestro análisis de datos hemos implementado una página web en donde se muestran de una forma más ordenada nuestros gráficos finales.
 
 ![image](https://github.com/Guill2/PyMath-Lab/blob/main/IMGs/Pag1.png)
-![image](https://github.com/Guill2/PyMath-Lab/blob/main/IMGs/Pag2.png)
+![image](https://github.com/Guill2/PyMath-Lab/blob/main/IMGs/pag2.png)
 
 [Enlace de nuestra página web](https://guill2.github.io/PyMath-Lab/)
 
