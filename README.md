@@ -35,13 +35,9 @@ Este análisis se basa en un conjunto de datos que estudia el impacto de factore
 
 ## Arquitectura del proyecto
 
-El proyecto se organiza en las siguientes etapas clave:
+Nuestro proyecto se organiza a grandes rasgos de la siguiente forma:
 
-1. **Adquisición de datos**: Importación del dataset desde Kaggle.
-2. **Preprocesamiento**: Limpieza y validación de datos.
-3. **Análisis exploratorio**: Generación de gráficos y cálculo de estadísticas descriptivas.
-4. **Visualización**: Uso de bibliotecas como Matplotlib y Seaborn para crear gráficos interpretativos.
-5. **Documentación**: Generación de conclusiones basadas en los hallazgos.
+![image](https://github.com/Guill2/PyMath-Lab/blob/main/IMGs/Arquitectura_PyCode.png)
 
 ---
 
